@@ -1,4 +1,4 @@
-Processing PacBio data starting from FLNC reads.
+# Processing PacBio data starting from FLNC reads.
 
 The skeleton of the SLURM script to run this pipeline
 
